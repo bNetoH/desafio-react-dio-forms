@@ -1,0 +1,10 @@
+{
+    "users": [
+        { "id": 1, "name":"Tester User", "email": "tester@qa.com", "senha":"tester12" },
+        { "id": 2, "name":"Debugger user", "email": "debugger@qa.com", "senha":"3quatro" },
+        { "id": 3, "name":"Debugger x", "email": "debugger-x@qa.com", "senha":"45xpto" },
+        { "id": 4, "name":"Debugger p", "email": "debugger-p@qa.com", "senha":"56xpto" },
+        { "id": 5, "name":"Debugger t", "email": "debugger-t@qa.com", "senha":"78xpto" },
+        { "id": 6, "name":"Debugger o", "email": "debugger-o@qa.com", "senha":"89xpto" }
+    ]
+}
